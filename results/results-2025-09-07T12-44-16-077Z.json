@@ -1,0 +1,14 @@
+{
+  "projectId": "123",
+  "tests": [
+    {
+      "testCaseId": "TC35",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mpage\u001b[39m\u001b[2m).\u001b[22mtoHaveURL\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nExpected pattern: \u001b[32m/.*dashboard/\u001b[39m\nReceived string:  \u001b[31m\"https://app.affooh.com/login/\"\u001b[39m\nTimeout: 5000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveURL\" with timeout 5000ms\u001b[22m\n\u001b[2m    9 × unexpected value \"https://app.affooh.com/login/\"\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mpage\u001b[39m\u001b[2m).\u001b[22mtoHaveURL\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nExpected pattern: \u001b[32m/.*dashboard/\u001b[39m\nReceived string:  \u001b[31m\"https://app.affooh.com/login/\"\u001b[39m\nTimeout: 5000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveURL\" with timeout 5000ms\u001b[22m\n\u001b[2m    9 × unexpected value \"https://app.affooh.com/login/\"\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\frogetPassword.spec.js:49:28"
+      },
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAIAAABAH0oBAAAQAElEQVR4nOz9eXAc150v+J6TSy1YCwABYuEC7tBGgbJsw5tMu7slXnVfN2d67hXHvu8G3zzHC/rFxAQjXijMsP/hP+6gQxEv+P55zT/8Ivje2B56bs9ctqetptSLaMkLbGuBqA0SJRJcAWItrLXkcuack5lVWSuqCgWgwPp+DIOFqqzMrKwClN/8nUVbXFohAAAAAAAAAA87jQAAAAAAAADUAQRgAAAAAAAAqAsIwAAAAAAAAFAXEIABAAAAAACgLiAAAwAAAAAAQF1AAAYAAAAAAIC6gAAMAAAAAAAAdQEBGAAAAAAAAOoCAjAAAAAAAADUBQRgAAAAAAAAqAsIwAAAAAAAAFAXEIABAAAAAACgLiAAAwAAAAAAQF1AAAYAAAAAAIC6gAAMAAAAAAAAdQEBGAAAAAAAAOoCAjAAAAAAAADUBQRgAAAAAAAAqAsIwAAAAAAAAFAXEIABAAAAAACgLiAAAwAAAAAAQF1AAAYAAAAAAIC6gAAMAAAAAAAAdQEBGAAAAAAAAOoCAjAAAAAAAADUBQRgAAAAAAAAqAsIwAAAAAAAAFAXEIABAAAAAACgLiAAAwAAAAAAQF1AAAYAAAAAAIC6gAAMAAAAAAAAdQEBGAAAAAAAAOoCAjAAAAAAAADUBQRgAAAAAAAAqAsIwAAAAAAAAFAXEIABAAAAAACgLiAAAwAAAAAAQF1AAAYAAAAAAIC6gAAMAAAAAAAAdQEBGAAAAAAAAOoCAjAAAAAAAADUBQRgAAAAAAAAqAsIwAAAAAAAAFAXEIABAAAAAACgLiAAAwAAAAAAQF1AAAYAAAAAAIC6gAAMAAAAAAAAdQEBGAAAAAAAAOoCAjAAAAAAAADUBQRgAAAAAAAAqAsIwAAAAAAAAFAXEIABAAAAAACgLiAAAwAAAAAAQF1AAAYAAAAAAIC6gAAMAAAAAAAAdQEBGAAA..."
+    }
+  ]
+}

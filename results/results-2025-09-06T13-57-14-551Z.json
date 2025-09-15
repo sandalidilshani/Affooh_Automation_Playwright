@@ -1,0 +1,34 @@
+{
+  "projectId": "123",
+  "tests": [
+    {
+      "testCaseId": "TC42:",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC43:",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC44:",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC45:",
+      "status": "failed",
+      "error": {
+        "message": "TypeError: Cannot read properties of undefined (reading 'locator')",
+        "stack": "TypeError: Cannot read properties of undefined (reading 'locator')\n    at Logout (C:\\Users\\Acer\\Desktop\\affooh\\pages\\auth\\LogoutPage.js:5:31)\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\logout.spec.js:34:20"
+      },
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAIAAABAH0oBAAAQAElEQVR4nOzdCWBU1d338TNbZrKQjQAhbBERgqiAIEYUpII2CBbUqogb1g0f7VsUW7FYUSuKtlT61FbU+ogVEbUKVBBUUARFZBFQkaCUPSFA9nX2ec+dO5lM9juTyQLz/RjDzJ1zl8mdwPzmf865Ro/HI05fuXn5aakpAgAAAAAQ8YwCAAAAAIAIQAAGAAAAAEQEAjAAAAAAICIQgAEAAAAAEYEADAAAAACICARgAAAAAIBmDqdjz2HHj0dcJ0vcRWXuwlJXYZlcbEiO1yd30id1MnRJMPXvZRrYW5g6XN4kAAMAAAAAmuEuKLV9vcf+7X8d2YeFw1W/getYgfyquW8ymAb2iTqvr/nCs2UwFh2DjusAAwAAAAAa4ymrrFz2RdXa7cLlFiEwGaOzLoi5MlMXHyPaGwEYAAAAANAAj9VetXJz5Yebhc0hWkZniYq+8sJoGYOjo0T7IQADAAAAAOpy5uaX/eXftXo1t5ihR0r8Q9cbuiaJdqIXAAAAAAAEsH9/oOSx18KbfiVXTn7xH15z7D0i2gkV4EbJn4zb7T6RX1RltVmtdqfLJYDThdFgsFiioi3mrinJer1OEgAAoAPz2ByV721wZB925eZ7quwikuiiowxpKaaBvWN+eamu480qfFqqWvtNxaI1ovWiokEfd9cEy6jzRJsjADdA/ZkUFZfm5OWndu1sMZss8n8jv2w4fTicTvnJjt3mOHYiv0dq16REZV4+YjAAAB2TdcO35a+sEu6Q5h86neh1cfdcZbnkXIHWZF37Tflrq0Xri7t9vGXc+aJtEerqUtNvQWFJeWXVuQPPFMDpSH6gY4ozijiR0jnxwOFct8fdOSlBvvjJwAAAdDSVy7+oWrmZ9Ktwe8oXfeQpLo+eeJFA63DsPVL+r49Em5A7MvTqYhrQS7QhxgDXJTNAQVFJeUVleq/uAogAZ/ROKyuv..."
+    },
+    {
+      "testCaseId": "TC46:",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC47:",
+      "status": "passed"
+    }
+  ]
+}

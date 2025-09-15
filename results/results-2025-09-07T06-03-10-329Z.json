@@ -1,0 +1,13 @@
+{
+  "projectId": "123",
+  "tests": [
+    {
+      "testCaseId": "TC30",
+      "status": "failed",
+      "error": {
+        "message": "TypeError: forgotPasswordPage.navigate is not a function",
+        "stack": "TypeError: forgotPasswordPage.navigate is not a function\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\frogetPassword.spec.js:22:34"
+      }
+    }
+  ]
+}

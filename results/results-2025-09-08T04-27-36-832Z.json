@@ -1,0 +1,14 @@
+{
+  "projectId": "123",
+  "tests": [
+    {
+      "testCaseId": "TC249",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('#priority')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('#priority')\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('#priority')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('#priority')\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\task.spec.js:68:43"
+      },
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAIAAABAH0oBAAAQAElEQVR4nOz9XbBk13XfCa518hZQkCixSMogLGJEeOwJFj3uGbBB29VqdxtNiXZ5oG7WeCY66kEPpXAMAzHiQ0UwwlEPDBP08KGCEYzAgzyB0IyC9cAHvEwMOE10lxsSGw+ypxwmBwi3Qyp1aNqQA5SLbIoE3ZJYQFWe1Wevr732OSfz5r0370fVXf/Kyjx58nzuczLv/u3/2mvvEBE8FJo9kZ/cffexs49O5yMipFKpVCqVSqVSqVTqNGkHHjoZCJeXDtHAuBBvYm8qlUqlUqlUKpVKnVo9hAAchdhBKpVKpVKpVCqVSqVSDz0Ad9vjX9L/M7NTqZMtnM7IYIhU6nhFRNkZJ5VKpVKpo9dDDsAHCXqmFcibSj1ooumMdlbWw1Opo9NDk3ojlUqlUqkHUQ+7A3yAej2vionBqYdaib6p1JEq6TeVSqVSqePVQ98HeL52v2EVhGBl6HMq9XCIYJNw6OTkVGoLSvpNpVKpVOrY9bCHQK/Qmup8tHzZAx7eYEDgrL6kHnShv047ByfoplKHpBH9Zh/gVCqVSqWORacUgMX1WhXenGHPqYda5K+TnsAzBlXW0VOprYtYkEqlUqlU6sh1Wh1geUaI4Z+1OlLgGJOBU6dJjR2c0JtKbVcRdxN9U6lUKpU6Rp1WB5g2NX7TDE49zKrYS8EQnmn9SSROpbYi/+uTGJxKpVKp1LEo+wDXWsgwb75CkmZw6qHUCqTFtIJTqa1qyrpJv6lUKpVKHZc6ON2KlZBxhhL5lJJ+Uw+p+N6mcU/gUawmpFKpbUm+XPE5lUqlUqnUEetUAzD504iEM/I5dapE43YeyrTnqdSWtKLHTX6zUqlUKpU6Hp1SAKbmpen9O/uSSj28ovZJZ2b9PJXartL+TaVSqVTqJOiU9gFuMv7I+/HLUD2Z6f6YPSJTD7qmFW8ZFUxeqHYN1q9AjlaaSm1X..."
+    }
+  ]
+}

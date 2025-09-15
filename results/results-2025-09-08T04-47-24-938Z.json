@@ -1,0 +1,647 @@
+{
+  "projectId": "123",
+  "tests": [
+    {
+      "testCaseId": "TC285",
+      "status": "failed",
+      "error": {
+        "message": "ReferenceError: adminCredentials is not defined",
+        "stack": "ReferenceError: adminCredentials is not defined\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\accepted_criteria.spec.js:19:32"
+      }
+    },
+    {
+      "testCaseId": "TC286",
+      "status": "failed",
+      "error": {
+        "message": "ReferenceError: adminCredentials is not defined",
+        "stack": "ReferenceError: adminCredentials is not defined\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\accepted_criteria.spec.js:19:32"
+      }
+    },
+    {
+      "testCaseId": "TC287",
+      "status": "failed",
+      "error": {
+        "message": "ReferenceError: adminCredentials is not defined",
+        "stack": "ReferenceError: adminCredentials is not defined\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\accepted_criteria.spec.js:19:32"
+      }
+    },
+    {
+      "testCaseId": "TC288",
+      "status": "failed",
+      "error": {
+        "message": "ReferenceError: adminCredentials is not defined",
+        "stack": "ReferenceError: adminCredentials is not defined\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\accepted_criteria.spec.js:19:32"
+      }
+    },
+    {
+      "testCaseId": "TC288",
+      "status": "failed",
+      "error": {
+        "message": "ReferenceError: adminCredentials is not defined",
+        "stack": "ReferenceError: adminCredentials is not defined\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\accepted_criteria.spec.js:19:32"
+      }
+    },
+    {
+      "testCaseId": "TC290",
+      "status": "failed",
+      "error": {
+        "message": "ReferenceError: adminCredentials is not defined",
+        "stack": "ReferenceError: adminCredentials is not defined\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\accepted_criteria.spec.js:19:32"
+      }
+    },
+    {
+      "testCaseId": "TC28",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC30",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC32",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('text=Invalid/Expired OTP. Please try again.')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('text=Invalid/Expired OTP. Please try again.')\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('text=Invalid/Expired OTP. Please try again.')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('text=Invalid/Expired OTP. Please try again.')\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\frogetPassword.spec.js:30:83"
+      }
+    },
+    {
+      "testCaseId": "TC33",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('text=Passwords do not match.')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('text=Passwords do not match.')\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('text=Passwords do not match.')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('text=Passwords do not match.')\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\frogetPassword.spec.js:36:68"
+      }
+    },
+    {
+      "testCaseId": "TC34",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('text=Password must be at least 8 characters long')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('text=Password must be at least 8 characters long')\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('text=Password must be at least 8 characters long')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('text=Password must be at least 8 characters long')\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\frogetPassword.spec.js:42:84"
+      }
+    },
+    {
+      "testCaseId": "TC35",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mpage\u001b[39m\u001b[2m).\u001b[22mtoHaveURL\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nExpected pattern: \u001b[32m/.*dashboard/\u001b[39m\nReceived string:  \u001b[31m\"https://app.affooh.com/login/\"\u001b[39m\nTimeout: 5000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveURL\" with timeout 5000ms\u001b[22m\n\u001b[2m    9 × unexpected value \"https://app.affooh.com/login/\"\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mpage\u001b[39m\u001b[2m).\u001b[22mtoHaveURL\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nExpected pattern: \u001b[32m/.*dashboard/\u001b[39m\nReceived string:  \u001b[31m\"https://app.affooh.com/login/\"\u001b[39m\nTimeout: 5000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveURL\" with timeout 5000ms\u001b[22m\n\u001b[2m    9 × unexpected value \"https://app.affooh.com/login/\"\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\frogetPassword.spec.js:48:28"
+      }
+    },
+    {
+      "testCaseId": "TC36",
+      "status": "failed",
+      "error": {
+        "message": "TypeError: forgotPasswordPage.navigate is not a function",
+        "stack": "TypeError: forgotPasswordPage.navigate is not a function\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\frogetPassword.spec.js:53:34"
+      }
+    },
+    {
+      "testCaseId": "TC37",
+      "status": "failed",
+      "error": {
+        "message": "ReferenceError: ResetPasswordPage is not defined",
+        "stack": "ReferenceError: ResetPasswordPage is not defined\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\frogetPassword.spec.js:63:35"
+      }
+    },
+    {
+      "testCaseId": "TC38",
+      "status": "failed",
+      "error": {
+        "message": "ReferenceError: ResetPasswordPage is not defined",
+        "stack": "ReferenceError: ResetPasswordPage is not defined\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\frogetPassword.spec.js:78:35"
+      }
+    },
+    {
+      "testCaseId": "TC40",
+      "status": "failed",
+      "error": {
+        "message": "ReferenceError: ResetPasswordPage is not defined",
+        "stack": "ReferenceError: ResetPasswordPage is not defined\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\frogetPassword.spec.js:87:35"
+      }
+    },
+    {
+      "testCaseId": "TC13",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC14",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC15",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC16",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC17",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  getByText('Password attempts exceeded').first()\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByText('Password attempts exceeded').first()\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  getByText('Password attempts exceeded').first()\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByText('Password attempts exceeded').first()\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\login.spec.js:60:61"
+      }
+    },
+    {
+      "testCaseId": "TC18",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC19",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('.react-toast-notifications__toast__content:has-text(\"Password reset successfully.\")')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('.react-toast-notifications__toast__content:has-text(\"Password reset successfully.\")')\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('.react-toast-notifications__toast__content:has-text(\"Password reset successfully.\")')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('.react-toast-notifications__toast__content:has-text(\"Password reset successfully.\")')\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\login.spec.js:77:123"
+      }
+    },
+    {
+      "testCaseId": "TC20",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC21",
+      "status": "failed",
+      "error": {
+        "message": "TimeoutError: page.waitForSelector: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/admin-dashboard\"]') to be visible\u001b[22m\n",
+        "stack": "TimeoutError: page.waitForSelector: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/admin-dashboard\"]') to be visible\u001b[22m\n\n    at LoginPage.validLogin (C:\\Users\\Acer\\Desktop\\affooh\\pages\\auth\\LoginPage.js:30:25)\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\login.spec.js:96:13"
+      }
+    },
+    {
+      "testCaseId": "TC22",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mpage\u001b[39m\u001b[2m).\u001b[22mtoHaveURL\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nExpected pattern: \u001b[32m/.*login/\u001b[39m\nReceived string:  \u001b[31m\"https://app.affooh.com/register\"\u001b[39m\nTimeout: 5000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveURL\" with timeout 5000ms\u001b[22m\n\u001b[2m    9 × unexpected value \"https://app.affooh.com/register\"\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mpage\u001b[39m\u001b[2m).\u001b[22mtoHaveURL\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nExpected pattern: \u001b[32m/.*login/\u001b[39m\nReceived string:  \u001b[31m\"https://app.affooh.com/register\"\u001b[39m\nTimeout: 5000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveURL\" with timeout 5000ms\u001b[22m\n\u001b[2m    9 × unexpected value \"https://app.affooh.com/register\"\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\login.spec.js:110:28"
+      }
+    },
+    {
+      "testCaseId": "TC23",
+      "status": "failed",
+      "error": {
+        "message": "Error: locator.fill: value: expected string, got undefined",
+        "stack": "Error: locator.fill: value: expected string, got undefined\n    at LoginPage.login (C:\\Users\\Acer\\Desktop\\affooh\\pages\\auth\\LoginPage.js:23:31)\n    at LoginPage.invalidLogin (C:\\Users\\Acer\\Desktop\\affooh\\pages\\auth\\LoginPage.js:34:20)\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\login.spec.js:117:25"
+      }
+    },
+    {
+      "testCaseId": "TC24",
+      "status": "failed",
+      "error": {
+        "message": "Error: locator.fill: value: expected string, got undefined",
+        "stack": "Error: locator.fill: value: expected string, got undefined\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\login.spec.js:125:39"
+      }
+    },
+    {
+      "testCaseId": "TC25",
+      "status": "failed",
+      "error": {
+        "message": "Error: Test data not found for ID: TC25",
+        "stack": "Error: Test data not found for ID: TC25\n    at TestDataHelper.getTestDataById (C:\\Users\\Acer\\Desktop\\affooh\\utils\\TestDataHelper.js:29:19)\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\login.spec.js:132:31"
+      }
+    },
+    {
+      "testCaseId": "TC26",
+      "status": "failed",
+      "error": {
+        "message": "Error: Test data not found for ID: TC26",
+        "stack": "Error: Test data not found for ID: TC26\n    at TestDataHelper.getTestDataById (C:\\Users\\Acer\\Desktop\\affooh\\utils\\TestDataHelper.js:29:19)\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\login.spec.js:142:31"
+      }
+    },
+    {
+      "testCaseId": "TC27",
+      "status": "failed",
+      "error": {
+        "message": "Error: Test data not found for ID: TC27",
+        "stack": "Error: Test data not found for ID: TC27\n    at TestDataHelper.getTestDataById (C:\\Users\\Acer\\Desktop\\affooh\\utils\\TestDataHelper.js:29:19)\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\login.spec.js:150:31"
+      }
+    },
+    {
+      "testCaseId": "EDGE",
+      "status": "failed",
+      "error": {
+        "message": "Error: Test data not found for ID: EDGE_EMPTY_EMAIL",
+        "stack": "Error: Test data not found for ID: EDGE_EMPTY_EMAIL\n    at TestDataHelper.getTestDataById (C:\\Users\\Acer\\Desktop\\affooh\\utils\\TestDataHelper.js:29:19)\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\login.spec.js:158:31"
+      }
+    },
+    {
+      "testCaseId": "EDGE",
+      "status": "failed",
+      "error": {
+        "message": "Error: Test data not found for ID: EDGE_EMPTY_PASSWORD",
+        "stack": "Error: Test data not found for ID: EDGE_EMPTY_PASSWORD\n    at TestDataHelper.getTestDataById (C:\\Users\\Acer\\Desktop\\affooh\\utils\\TestDataHelper.js:29:19)\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\auth\\login.spec.js:167:31"
+      }
+    },
+    {
+      "testCaseId": "TC235",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC236",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC237",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC238",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC241",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC242",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "170",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC172",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  getByText(/Successfully Created/)\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByText(/Successfully Created/)\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  getByText(/Successfully Created/)\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByText(/Successfully Created/)\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\project.spec.js:51:78"
+      }
+    },
+    {
+      "testCaseId": "TC174",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  getByText(/Successfully Created/)\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByText(/Successfully Created/)\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  getByText(/Successfully Created/)\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByText(/Successfully Created/)\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\project.spec.js:58:78"
+      }
+    },
+    {
+      "testCaseId": "TC175",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  getByText(/Successfully Created/)\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByText(/Successfully Created/)\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  getByText(/Successfully Created/)\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByText(/Successfully Created/)\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\project.spec.js:65:78"
+      }
+    },
+    {
+      "testCaseId": "TC176",
+      "status": "failed",
+      "error": {
+        "message": "Error: ENOENT: no such file or directory, open 'C:\\Users\\Acer\\Desktop\\affooh\\test-results\\.playwright-artifacts-41\\traces\\6a20988b37df4bd30373-cf36ae3e91ccc63f94d1.stacks'",
+        "stack": "Error: ENOENT: no such file or directory, open 'C:\\Users\\Acer\\Desktop\\affooh\\test-results\\.playwright-artifacts-41\\traces\\6a20988b37df4bd30373-cf36ae3e91ccc63f94d1.stacks'"
+      }
+    },
+    {
+      "testCaseId": "177",
+      "status": "failed",
+      "error": {
+        "message": "Error: ENOENT: no such file or directory, open 'C:\\Users\\Acer\\Desktop\\affooh\\test-results\\.playwright-artifacts-42\\traces\\6a20988b37df4bd30373-4f5ea22c0735c8034b61.stacks'",
+        "stack": "Error: ENOENT: no such file or directory, open 'C:\\Users\\Acer\\Desktop\\affooh\\test-results\\.playwright-artifacts-42\\traces\\6a20988b37df4bd30373-4f5ea22c0735c8034b61.stacks'"
+      }
+    },
+    {
+      "testCaseId": "178",
+      "status": "failed",
+      "error": {
+        "message": "Error: ENOENT: no such file or directory, open 'C:\\Users\\Acer\\Desktop\\affooh\\test-results\\.playwright-artifacts-43\\traces\\6a20988b37df4bd30373-d5fc4c44af450a88bb55.stacks'",
+        "stack": "Error: ENOENT: no such file or directory, open 'C:\\Users\\Acer\\Desktop\\affooh\\test-results\\.playwright-artifacts-43\\traces\\6a20988b37df4bd30373-d5fc4c44af450a88bb55.stacks'"
+      }
+    },
+    {
+      "testCaseId": "176",
+      "status": "failed",
+      "error": {
+        "message": "Error: ENOENT: no such file or directory, open 'C:\\Users\\Acer\\Desktop\\affooh\\test-results\\.playwright-artifacts-44\\traces\\6a20988b37df4bd30373-fca6d489acf6f110e99e.stacks'",
+        "stack": "Error: ENOENT: no such file or directory, open 'C:\\Users\\Acer\\Desktop\\affooh\\test-results\\.playwright-artifacts-44\\traces\\6a20988b37df4bd30373-fca6d489acf6f110e99e.stacks'"
+      },
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAIAAABAH0oBAAAQAElEQVR4nOzXQQEAMAgAIR/2r+x67KAFe3cDAAAAv9sBAACAAAEGAAAgQYABAABIEGAAAAASBBgAAIAEAQYAACBBgAEAAEgQYAAAABIEGAAAgAQBBgAAIEGAAQAASBBgAAAAEgQYAACABAEGAAAgQYABAABIEGAAAAASBBgAAIAEAQYAACBBgAEAAEgQYAAAABIEGAAAgAQBBgAAIEGAAQAASBBgAAAAEgQYAACABAEGAAAgQYABAABIEGAAAAASBBgAAIAEAQYAACBBgAEAAEgQYAAAABIEGAAAgAQBBgAAIEGAAQAASBBgAAAAEgQYAACABAEGAAAgQYABAABIEGAAAAASBBgAAIAEAQYAACBBgAEAAEgQYAAAABIEGAAAgAQBBgAAIEGAAQAASBBgAAAAEgQYAACABAEGAAAgQYABAABIEGAAAAASBBgAAIAEAQYAACBBgAEAAEgQYAAAABIEGAAAgAQBBgAAIEGAAQAASBBgAAAAEgQYAACABAEGAAAgQYABAABIEGAAAAASBBgAAIAEAQYAACBBgAEAAEgQYAAAABIEGAAAgAQBBgAAIEGAAQAASBBgAAAAEgQYAACABAEGAAAgQYABAABIEGAAAAASBBgAAIAEAQYAACBBgAEAAEgQYAAAABIEGAAAgAQBBgAAIEGAAQAASBBgAAAAEgQYAACABAEGAAAgQYABAABIEGAAAAASBBgAAIAEAQYAACBBgAEAAEgQYAAAABIEGAAAgAQBBgAAIEGAAQAASBBgAAAAEgQYAACABAEGAAAgQYABAABIEGAAAAASBBgAAIAEAQYAACBBgAEAAEgQYAAAABIEGAAAgAQBBgAAIEGAAQAASBBgAAAAEgQYAACABAEGAAAgQYABAABIEGAAAAASBBgAAIAEAQYAACBBgAEAAEgQYAAAABIEGAAAgAQBBgAAIEGAAQAA..."
+    },
+    {
+      "testCaseId": "177",
+      "status": "failed",
+      "error": {
+        "message": "Error: ENOENT: no such file or directory, open 'C:\\Users\\Acer\\Desktop\\affooh\\test-results\\.playwright-artifacts-45\\traces\\6a20988b37df4bd30373-06a8e33717ba88edb5d5.stacks'",
+        "stack": "Error: ENOENT: no such file or directory, open 'C:\\Users\\Acer\\Desktop\\affooh\\test-results\\.playwright-artifacts-45\\traces\\6a20988b37df4bd30373-06a8e33717ba88edb5d5.stacks'"
+      }
+    },
+    {
+      "testCaseId": "178",
+      "status": "failed",
+      "error": {
+        "message": "Error: ENOENT: no such file or directory, open 'C:\\Users\\Acer\\Desktop\\affooh\\test-results\\.playwright-artifacts-46\\traces\\6a20988b37df4bd30373-3d5b28b9d6e6887149e6.stacks'",
+        "stack": "Error: ENOENT: no such file or directory, open 'C:\\Users\\Acer\\Desktop\\affooh\\test-results\\.playwright-artifacts-46\\traces\\6a20988b37df4bd30373-3d5b28b9d6e6887149e6.stacks'"
+      },
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAIAAABAH0oBAAAQAElEQVR4nOz9eXBc150veJ5zl1ywJgACxMIF3KGNAiXZhjeZdlVJbL33XOyufk9su+YFpqdigp7o6GDEhMIM+x/+owo6GDHB+WeKf3giONO2h+5X3Y/lLqso1SJK8gLbWiBqg0SJBFeAWBNrLnc5c86592beXJEJJIAE8/sxDCYyb95782YCut/7O4u2sLhMAAAAAAAAAB52GgEAAAAAAACoAQjAAAAAAAAAUBMQgAEAAAAAAKAmIAADAAAAAABATUAABgAAAAAAgJqAAAwAAAAAAAA1AQEYAAAAAAAAagICMAAAAAAAANQEBGAAAAAAAACoCQjAAAAAAAAAUBMQgAEAAAAAAKAmIAADAAAAAABATUAABgAAAAAAgJqAAAwAAAAAAAA1AQEYAAAAAAAAagICMAAAAAAAANQEBGAAAAAAAACoCQjAAAAAAAAAUBMQgAEAAAAAAKAmIAADAAAAAABATUAABgAAAAAAgJqAAAwAAAAAAAA1AQEYAAAAAAAAagICMAAAAAAAANQEBGAAAAAAAACoCQjAAAAAAAAAUBMQgAEAAAAAAKAmIAADAAAAAABATUAABgAAAAAAgJqAAAwAAAAAAAA1AQEYAAAAAAAAagICMAAAAAAAANQEBGAAAAAAAACoCQjAAAAAAAAAUBMQgAEAAAAAAKAmIAADAAAAAABATUAABgAAAAAAgJqAAAwAAAAAAAA1AQEYAAAAAAAAagICMAAAAAAAANQEBGAAAAAAAACoCQjAAAAAAAAAUBMQgAEAAAAAAKAmIAADAAAAAABATUAABgAAAAAAgJqAAAwAAAAAAAA1AQEYAAAAAAAAagICMAAAAAAAANQEBGAAAAAAAACoCQjAAAAAAAAAUBMQgAEAAAAAAKAmIAADAAAAAABATUAABgAAAAAAgJqAAAwAAAAAAAA1AQEYAAAAAAAAagICMAAA..."
+    },
+    {
+      "testCaseId": "181",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "182",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "Verify",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "Successfully",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "185",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "186",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "187",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "188",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "189",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "190",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "191",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "192",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "193",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "194",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "195",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "196",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "197",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "198",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "215",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "216",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "217",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "218",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "226",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('.project-dropdown')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('.project-dropdown')\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('.project-dropdown')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('.project-dropdown')\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\project.spec.js:301:73"
+      },
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAIAAABAH0oBAAAQAElEQVR4nOzdCWCT5f0H8Cd3ml5pKTTcEdAGEIkiGFAxKrh4bMSTeM24zZlNt9WpsxM36/46o86ZOXVR54zzindwKPGOqBBBJB5IqojhKin0SK/cx/9536SlLT2SNr2/H7OSvHne533fgJNvfs/zvPxEIkHGrmpv7RRZCQEAAAAAAIBxj08AAAAAAAAAxgEEYAAAAAAAABgXEIABAAAAAABgXEAABgAAAAAAgHEBARgAAAAAAADGBQRgAAAAAAAASFskGtmxJ/Lt3tihxnhDc7y+KVbfTDfzigu4xfnconzexELBMdMFc2cQwYjLmwjAAAAAAAAA0Id4XVPo0x3hL7+PuPeQSOzIBrEDdfRx+LWAJ5g7U3jcLNFJ82gwJiMDB/cBBgAAAAAAgJ4kmv3+1z4OvLuVxOKkHwT8HM1iyTkqToGEDDcEYAAAAAAAAOhGIhgOrHP633SSUIQMDEcszDnnpBwag3OEZPggAAMAAAAAAEBX0era5r+/3GlU84DxppYU3HQJb1IRGSZcAgAAAAAAANBB+OsfGv/8ZHbTLxXbX+v705ORqr1kmKAC3CP6ycTj8YO1DYFgKBgMR2MxAjBW8Hk8sViYIxZNKinmcjkUAQAAgBEsEYr4X9kQce+JVdcmAmEynnByhLwpJYK5MyQXncYZeasKj0mBdz9vtdjJ4EVFHjfvmnPFpx5HhhwCcDeSn0mDr2m/t1Y2aYJYJBDT//HxLxuMHZFolH6zEw5FDhysnSqbVCRl1uVDDAYAABiZghu+bHn8DRLv1/pDYwmXk3ftj8WnLCAwmILvft7y5Hoy+PKuPlu84gQytBDqukqm37r6xhZ/YMHc2QRgLKJf6Ajy+CSPlEyQ/rCnOp6ITygqpH/4kYEBAABGGr/t48A6J9IvI55osbyV8LXknLeUwOCIVO1t+e9bZEjQA/GmTxSUTSdDCHOA..."
+    },
+    {
+      "testCaseId": "227",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "228",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "229",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('.project-dropdown').getByText('Default Project')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('.project-dropdown').getByText('Default Project')\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('.project-dropdown').getByText('Default Project')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('.project-dropdown').getByText('Default Project')\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\project.spec.js:316:102"
+      },
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAIAAABAH0oBAAAQAElEQVR4nOzdCWCT5f0H8Cd3ml5pKTTcEdAGEIkiGC+Mii4eG/EkXjNuc2bTbXXqrOJm3V9n1DmzTbd4zTiveAeHEu+IClFE4oEERQxXSaFHeuU+/s/7Ji1t6fGmTS/6/ZiV5M3zPu/7Bpx883ue5xWmUily6Krx101RlBEAAAAAAAAY94QEAAAAAAAAYBxAAAYAAAAAAIBxAQEYAAAAAAAAxgUEYAAAAAAAABgXEIABAAAAAABgXEAABgAAAAAAAM5i8diWnbFvdyX2NyUbW5INzYmGFrpZUFrELy3klxQKJhaLjpgumjuDiEZd3kQABgAAAAAAgH4k65sjn2yJfvl9zLuTxBIHN0jsraePA69FAtHcmeKjZkmOm0eDMRkdeLgPMAAAAAAAAPQm1RIMvvpR6J2NJJEkAyAS5ukWy87W8IpkZKQhAAMAAAAAAEAPUuFoaLU7+IabRGJkcHhScd7Zx+XRGJwnJiMHARgAAAAAAAC6i9fUtfztpS6jmgdNMLWs6MaLBZNKyAjhEwAAAAAAAIBOol//0PSnJ3KbfqnEnrrAH5+Ibd1FRggqwL2in0wymdxX1xgKR8LhaDyRIACHCqFAIJWK86SSSWWlfD6PIgAAADCKpSKx4MtrY96diZq6VChKxhNenlgwpUw0d4bswlN4o29V4UNS6J3P22xOMnRRUcAvuPoc6clHkWGHANyD9GfSGGje469TTJoglYik9H9C/MsGh45YPE6/2YlGYnv31U1VTCqRM+vyIQYDAACMTuG1X7Y++jpJDmj9oUMJn1dwzY+lJy0gMJTC73ze+sQaMvQKrjpLuuwYMrwQ6rpLp9/6hqbWYGjB3NkE4FBEv9ARFQhJASmbIP9hZ00ylZxQUkz/8CMDAwAAjDZBx0eh1W6kX0Yy1Wp7MxVozTv3eAJDI7Z1V+t/3yTDgh5IMH2iqGI6GUaY..."
+    },
+    {
+      "testCaseId": "230",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "231",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // deep equality\u001b[22m\n\n\u001b[32m- Expected  - 4\u001b[39m\n\u001b[31m+ Received  + 1\u001b[39m\n\n\u001b[32m- Array [\u001b[39m\n\u001b[32m-   \"Project A\",\u001b[39m\n\u001b[32m-   \"Project B\",\u001b[39m\n\u001b[32m- ]\u001b[39m\n\u001b[31m+ Array []\u001b[39m",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // deep equality\u001b[22m\n\n\u001b[32m- Expected  - 4\u001b[39m\n\u001b[31m+ Received  + 1\u001b[39m\n\n\u001b[32m- Array [\u001b[39m\n\u001b[32m-   \"Project A\",\u001b[39m\n\u001b[32m-   \"Project B\",\u001b[39m\n\u001b[32m- ]\u001b[39m\n\u001b[31m+ Array []\u001b[39m\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\project.spec.js:327:34"
+      },
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAIAAABAH0oBAAAQAElEQVR4nOzdeYzc53nY8efdnb243OV9X5Koy7ETy7bo0mecVK3TNnLSJojdKoVbIEVsoAGa1DHg2kUQ1KkBO2iAOoDTNkXr1k7iRv6jVlA0qZIqkhXToezKt2TqosRTPJfH3jtvf8OVddCydZErzTyfDxbL2d3ZITn/7H7neX/v2zp7bjIAAACg17UCAAAAEhDAAAAApCCAAQAASEEAAwAAkIIABgAAIAUBDAAAQAoCGAAAgBQEMAAAACkIYAAAAFIQwAAAAKQggAEAAEhBAAMAAJCCAAYAACAFAQwAAEAKAhgAAIAUBDAAAAApCGAAAABSEMAAAACkIIABAABIQQADAACQggAGAAAgBQEMAABACgIYAACAFAQwAAAAKQhgAAAAUhDAAAAApCCAAQAASEEAAwAAkIIABgAAIAUBDAAAQAoCGAAAgBQEMAAAACkIYAAAAFIQwAAAAKQggAEAAEhBAAMAAJCCAAYAACAFAQwAAEAKAhgAAIAUBDAAAAApCGAAAABSEMAAAACkIIABAABIQQADAACQggAGAAAgBQEMAABACgIYAACAFAQwAAAAKQhgAAAAUhDAAAAApCCAAQAASEEAAwAAkIIABgAAIAUBDAAAQAoCGAAAgBQEMAAAACkIYAAAAFIQwAAAAKQggAEAAEhBAAMAAJCCAAYAACAFAQwAAEAKAhgAAIAUBDAAAAApCGAAAABSEMAAAACkIIABAABIQQADAACQggAGAAAgBQEMAABACgIYAACAFAQwAAAAKQhgAAAAUhDAAAAApCCAAQAASEEAAwAAkIIABgAAIAUBDAAAQAoCGAAAgBQEMAAAACkIYAAAAFIQwAAAAKQggAEAAEhBAAMAAJCCAAYAACAFAQwAAEAKAhgAAIAUBDAAAAApCGAAAABSEMAAAACkIIABAABIQQADAACQggAGAAAgBQEMAABA..."
+    },
+    {
+      "testCaseId": "232",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC244",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC245",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC246",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC247",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC248",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC249",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('#priority')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('#priority')\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  locator('#priority')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('#priority')\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\task.spec.js:68:45"
+      },
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAIAAABAH0oBAAAQAElEQVR4nOz9XbBk13XfCa518hZQkCixSMogLGJEeOwJFj3uGbBB29VqdxtNiXZ5oG7WeCY66kEPpXAMAzHiQ0UwwlEPDBP08KGCEYzAgzyB0IyC9cAHvEwMOE10lxsSGw+ypxwmBwi3Qyp1aNqQA5SLbIoE3ZJYQFWe1Wevr732OSfz5r0370fVXf/Kyjx58nzuczLv/u3/2mvvEBE8FJo9kZ/cffexs49O5yMipFKpVCqVSqVSqVTqNGkHHjoZCJeXDtHAuBBvYm8qlUqlUqlUKpVKnVo9hAAchdhBKpVKpVKpVCqVSqVSDz0Ad9vjX9L/M7NTqZMtnM7IYIhU6nhFRNkZJ5VKpVKpo9dDDsAHCXqmFcibSj1ooumMdlbWw1Opo9NDk3ojlUqlUqkHUQ+7A3yAej2vionBqYdaib6p1JEq6TeVSqVSqePVQ98HeL52v2EVhGBl6HMq9XCIYJNw6OTkVGoLSvpNpVKpVOrY9bCHQK/Qmup8tHzZAx7eYEDgrL6kHnShv047ByfoplKHpBH9Zh/gVCqVSqWORacUgMX1WhXenGHPqYda5K+TnsAzBlXW0VOprYtYkEqlUqlU6sh1Wh1geUaI4Z+1OlLgGJOBU6dJjR2c0JtKbVcRdxN9U6lUKpU6Rp1WB5g2NX7TDE49zKrYS8EQnmn9SSROpbYi/+uTGJxKpVKp1LEo+wDXWsgwb75CkmZw6qHUCqTFtIJTqa1qyrpJv6lUKpVKHZc6ON2KlZBxhhL5lJJ+Uw+p+N6mcU/gUawmpFKpbUm+XPE5lUqlUqnUEetUAzD504iEM/I5dapE43YeyrTnqdSWtKLHTX6zUqlUKpU6Hp1SAKbmpen9O/uSSj28ovZJZ2b9PJXartL+TaVSqVTqJOiU9gFuMv7I+/HLUD2Z6f6YPSJTD7qmFW8ZFUxeqHYN1q9AjlaaSm1X..."
+    },
+    {
+      "testCaseId": "TC250",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC251",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC252",
+      "status": "failed",
+      "error": {
+        "message": "Error: expect.toBeVisible: Error: strict mode violation: getByText('Assignee') resolved to 2 elements:\n    1) <label class=\"block text-sm font-medium text-gray-500\">Assignee</label> aka locator('label').filter({ hasText: 'Assignee' })\n    2) <div class=\"font-bold text-gray-600\">Assignee</div> aka getByLabel('Column Assignee').getByText('Assignee')\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByText('Assignee')\u001b[22m\n",
+        "stack": "Error: expect.toBeVisible: Error: strict mode violation: getByText('Assignee') resolved to 2 elements:\n    1) <label class=\"block text-sm font-medium text-gray-500\">Assignee</label> aka locator('label').filter({ hasText: 'Assignee' })\n    2) <div class=\"font-bold text-gray-600\">Assignee</div> aka getByLabel('Column Assignee').getByText('Assignee')\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByText('Assignee')\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\task.spec.js:105:46"
+      },
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAIAAABAH0oBAAAQAElEQVR4nOz9XbBc13XnCa598gIEbUkEKZmEJZZJV2mGoNvdRRZYZbTb3cWmxTI8UDcxVRUdeOADFIpSMEp6QAQjHHhgSKSGDwhFMIIPUgVDMwrigQ98qI4hp4UueChx+CB74DDRZLgdJtShaVMeUgLZFD+qbQsEkGf32etj77XPOXlv3ou8Ny9w/z8kM0+ePJ87T/Ke//6vtfZKjJGuC0ZP5JcXP75xzw3D+SEEAgAAAAAAAACwk1ih6w4TwumlCcGEcVK8kL0AAAAAAAAAsGO5DgWwJ4SGAAAAAAAAAACA614AN4vTv1H/G5kNwPYmDGcgGAKA5RJjRDIOAAAAsPVc5wL4aoKe4wzJC8C1RhzOqGfhPhyAreO6Kb0BAAAAXItc7w7wVdzX86oBMhhc10D6ArClQP0CAAAAy+W6zwEev7uf8xYk0szQZwCuDyLNEw4NnQzAAoD6BQAAAJbO9R4CPYNVbue95csecPcmOAmM2xdwrRPy6zA5GEIXgE2ip36RAwwAAAAshR0qgMX1mhXejLBncF0T8+sgE3jEoMI9OgALJzIEAAAAgC1npzrA8hzIh3+W25EkjgM0MNhJVHYwRC8Ai8XLXUhfAAAAYInsVAc4zmv8wgwG1zNF9kZnCI/0/kASA7AQ8l8fyGAAAABgKSAHuNyFdPPGb0hgBoPrkhmSNsAKBmChDLUu1C8AAACwLBra2fibkH6FEvk0Qv2C6xS+tmM/E7gXq0kAgEUhPy7/DAAAAIAtZkcL4JifekoYkc9gRxH7/TwRZc8BWBAzMm7wywIAAACWww4VwLF6qbJ/R18AuH6J9ZPOxP05AIsF9i8AAACwHdihOcBVxR9533/pbk9G0h+REQmudYY33jIqmLzEkhqsPwGMVgrAYoEGBgAAAJbIjg2Bnh3iWbSx+yTYA4BrnZGLWRLe46yIB9yoA7AxejWf..."
+    },
+    {
+      "testCaseId": "TC279",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC280",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC281",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC283",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC284",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC244",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC251",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC292",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC293",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC294",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC295",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC254",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "TC255",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC257",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC258",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  getByRole('button', { name: 'test3' })\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByRole('button', { name: 'test3' })\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  getByRole('button', { name: 'test3' })\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByRole('button', { name: 'test3' })\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\task.spec.js:222:63"
+      },
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAIAAABAH0oBAAAQAElEQVR4nOzdCUCUdf4/8O9czMAgM9wIKOSFJ6IEkiZZHuFRupnlemxUWm61u7RluWu7WT/dTGtjd7OsLGk9/pbZqmmSRyFeJKKIJ54ghyAgA8wMc8//+zxzMMAAM8gxwPsV4czzfJ/7meH5PJ/v9/vwjUYj6b6KS8qDg/wIAAAAAAAA9Hh8AgAAAAAAANADIAAGAAAAAACAHgEBMAAAAAAAAPQICIABAAAAAACgR0AADAAAAAAAAD0CAmAAAAAAAABwmFanvXRLe6VAX1ZlqKwx3K3W362hg3k+XlyfXlzvXjx/iWBQH8GQvkTgcvEmAmAAAAAAAABogaGiWv3rJU3Ode3lW0Srb1xAf7uC/tS9F/AEQ8LcIvsJxwylgTFxDRw8BxgAAAAAAACaYqxRKv93tPZgFtEbSCsI+O4JMR7T4jheHqSzIQAGAAAAAAAAO4wqTe2eDOWPGUStJfeGI3JznzbGnYbB7m6k8yAABgAAAAAAgIZ0xeU1//yuXq3me8YL8fN6/SlegDfpJFwCAAAAAAAAYENz/mbV3ze2bfRL6YvKZX/bqM0tIJ0EGeAm0T1jMBjulFfWqtQqlUan1xOA7oLP44lEbu4iYYCfD5fLoQgAAAC4MKNaq9yRrr18S19cbqzVkJ6E4+7GC/YTDOnr8eRDHNfrVbhbqj14WpGSStovVORxPRdPF42PJB0OAbAdpn1SKasuKikPCvAVCQUi+j8fHzboPrQ6Hb2zo1Frb98pDwkK8JYy/fIhDAYAAHBNqvQc+Rd7iaFV/Q91J1yO54uPiR4cQaA9qQ6elm/cR9qf57NTRZNGk46FoK4hU/RbcbdKrqwdMaQ/AeiO6A0dgSefeBI/X+nNW8UGo8HXW0JPfsTAAAAArka582jtngxEvwyDUZ7yk1Emd5/xAIH2oc0tkP/3J9Ih6IJ4ffwFEX1IB0Ib4IZo..."
+    },
+    {
+      "testCaseId": "TC259",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC260",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  getByRole('button', { name: 'test3' })\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByRole('button', { name: 'test3' })\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  getByRole('button', { name: 'test3' })\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByRole('button', { name: 'test3' })\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\task.spec.js:233:63"
+      },
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAIAAABAH0oBAAAQAElEQVR4nOzdCUCUdf4/8O9czMAgM9wIKOSFJ6IEkiZZHuFRspnlqm1UWm61u7RluWtb1k83y9rY3SwrS1uPv2W2aprk0SpeJKKIJ54ghyAgAwzD3PP/Ps8zMwwwwAxyDPB+RTjzPN/nfmZ4Ps/n+/0+QpPJRLqvouKy4CA/AgAAAAAAAD2ekAAAAAAAAAD0AAiAAQAAAAAAoEdAAAwAAAAAAAA9AgJgAAAAAAAA6BEQAAMAAAAAAECPgAAYAAAAAAAAHKbT6y7e1F3ON5RWGiuqjXeqDHeq6WCBjxffpxffu5fAXyYa1Ec0pC8RuVy8iQAYAAAAAAAAWmAsr9L8elGbfU136SbRGRoXMNwqpz9170UC0ZAwt8h+4jFDaWBMXAMPzwEGAAAAAACAppiqVar/Hqndn0kMRtIKIqF7QozHtDielwfpbAiAAQAAAAAAwA6TWlu7K131UzrR6Mjd4Unc3KeNcadhsLsb6TwIgAEAAAAAAKAhfVFZ9T++r1er+a4JQvy8XntCEOBNOgmfAAAAAAAAANjQnrtR+da6to1+KUNhmeJv63Q5+aSTIAPcJLpnjEbj7bKKWrVGrdbqDQYC0F0IBQKJxM1dIg7w8+HzeRQBAAAAF2bS6FTb0nSXbhqKyky1WtKT8NzdBMF+oiF9PR5/gOd6vQp3S7X7T9WsTyXtFyoK+J4Lp0vGR5IOhwDYDm6fVCiqCovLggJ8JWKRhP4vxIcNug+dXk/v7Gg1ulu3y0KCArzlTL98CIMBAABckzotW/nlbmJsVf9D3Qmf5/nCI5L7RxBoT+r9p5Tr9pD25/nMVMmk0aRjIahriIt+y+9UKlW1I4b0JwDdEb2hI/IUEk/i5yu/cbPIaDL6esvoyY8YGAAAwNWoth+p3ZWO6JdhNCnX/2xSKN1n3Eegfehy8pX/+Zl0CLogQR9/UUQf0oHQBrgh..."
+    },
+    {
+      "testCaseId": "TC261",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC265",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC266",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC267",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC268",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "TC270",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "Select",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "48",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "49",
+      "status": "timedOut"
+    },
+    {
+      "testCaseId": "50",
+      "status": "failed",
+      "error": {
+        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  getByText('First Name')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByText('First Name')\u001b[22m\n",
+        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m failed\n\nLocator:  getByText('First Name')\nExpected: visible\nReceived: <element(s) not found>\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByText('First Name')\u001b[22m\n\n    at C:\\Users\\Acer\\Desktop\\affooh\\tests\\userManagement\\updateUserProfile.spec.js:32:48"
+      },
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAIAAABAH0oBAAAQAElEQVR4nOzdC0BT590/8Cc3cuEW7hFQacUC1ioWrLS1jlq1rLjK2m6lrd1wvbnWd2OzF7a6Fvfajl7c2P62s7dXttoON9tpJx1qa5llLVZRtFagYgsKGO7hlgu5/Z9zThLCPQkhBPh+xmhy8pyTk2OAfM/veZ4jNJvNZPpqVLZGKkIJAAAAAAAAzHhCAgAAAAAAADADIAADAAAAAADAjIAADAAAAAAAADMCAjAAAAAAAADMCAjAAAAAAAAAMCMgAAMAAAAAAIDD9AZ95UX915eMLZ2mjm5Te5exvZsuFgQH8IP9+UH+grBA0VWzRQlziMjr8iYCMAAAAAAAAIzB1NalO1bZd+aCvuoi0RuHNjBebqNf/fdFAlHCXJ9FV4qXLaDBmHgHHq4DDAAAAAAAACMxd6vV/yzVfFROjCbiApFQmrZUdlsKL0BGJhsCMAAAAAAAAAzDrO3THChTf1hGdHoyPjyJj/S2ZVIag6U+ZPIgAAMAAAAAAMBghsbW7t/vHdCredwEUaEBj/9QEB5EJgmfAAAAAAAAANjpO/tt5zO73Jt+KWNDq+o3u/TVl8gkQQV4RPTImEym5tYOjVan1fYZjEYCMF0IBQKJxEcqEYeHBvP5PIoAAACAFzPr9Or3juqrLhobW82aPjKT8KQ+gshQUcIc2V3f4XnfrMLTkuajk70FxWTioqKA7/dQuuSmRcTjEICHwR2TDlVXg7JVER4iEYsk9P9C/LDB9KE3GOiZnT6d/nJza5QiPEjOzMuHGAwAAOCdtEfP9LxRREwuzT80nfB5fo98T7L8GgITSfvRyZ5d/yYTz2/DdyWrriWehVA3GJd+29o7e9SaaxLmEYDpiJ7QEfkJiR8JDZF/e7HRZDaFBAXSNz8yMAAAgLdR7yvVHChD+mWYzD0FB82qHuna6wlMDH31pZ6/HiQeQZ9IMDtMFDebeBDG..."
+    },
+    {
+      "testCaseId": "51",
+      "status": "passed"
+    },
+    {
+      "testCaseId": "52",
+      "status": "passed"
+    }
+  ]
+}
